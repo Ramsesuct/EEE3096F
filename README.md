@@ -1,2 +1,2 @@
 # EEE3096F
-Repository for EEE3096S Tutorial 1 
+Repository for EEE3096S Tutorials
